@@ -6,3 +6,4 @@ missingno
 scikit-learn
 xverse
 woe
+fastapi
